@@ -1,0 +1,29 @@
+{
+  "name": "iot-challenge",
+  "description": "IOT Challenge User Profile Page",
+  "private": "true",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "jquery": "3.5.1",
+    "bootstrap": "^4.5.2",
+    "react-images-uploading": "^2.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

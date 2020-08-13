@@ -1,0 +1,19 @@
+body {
+    padding-top: 40px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+.container {
+    max-width: 730px;
+}
+
+.modal-dialog-centered {
+    justify-content: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
